@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.movie {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.movie-image{
+  height: 150px;
+  width: 150px;
+  margin-bottom: 10px;
+}
+.pp {
+  color: red;
+}
